@@ -1,6 +1,6 @@
 ## Uber Clone
 A frontend clone of the webpage of Uber <br> Technologies used:- <br> * Next JS <br> * React JS <br> * Tailwind CSS Styled- components for styling <br> * Firebase for Google Authentication <br> MapBox API for the Map. <br>
-You can clone this website, use your own MapBox API from `www.mapbox.com` and personalize this project.
+You can clone this website, use your own MapBox API from [www.mapbox.com](www.mapbox.com) and personalize this project.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
